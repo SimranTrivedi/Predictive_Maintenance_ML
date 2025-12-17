@@ -14,18 +14,19 @@ This project predicts machine failure using machine learning based on sensor dat
 5. Performance analysis
 
 # Models Used
- Random Forest, Logistic Regression 
+ 1.Random Forest
+ 2.Logistic Regression 
 
 # Results
- Achieved accuracy of 98.5%
- Evaluated using confusion matrix and classification metrics
+ 1.Achieved accuracy of 98.5%
+ 2.Evaluated using confusion matrix and classification metrics
 
 # Tools & libraries
- Python
- Pandas, NumPy
- Scikit-learn,Random Forest
- Data visualization,Seaborn
- Google Colab
+ 1.Python
+ 2.Pandas, NumPy
+ 3.Scikit-learn,Random Forest
+ 4.Data visualization,Seaborn
+ 5.Google Colab
 
 # Future Improvements
  Hyperparameter tuning
